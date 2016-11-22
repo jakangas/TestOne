@@ -13,4 +13,7 @@ print('{:7s}'.format('Test'))
 plt.figure()
 plt.show()
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/still-more
