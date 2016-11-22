@@ -10,6 +10,9 @@ import math
 
 print('{:7s}'.format('Test'))
 
+print('{:7s}'.format('Test2'))
+
 plt.figure()
 plt.show()
+
 
