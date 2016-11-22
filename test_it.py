@@ -8,4 +8,9 @@ import math
 
 # Usage: test_it
 
-print('{:7s}'.format('Test')
+print('{:7s}'.format('Test'))
+
+plt.figure()
+plt.show()
+
+
