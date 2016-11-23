@@ -14,12 +14,3 @@ print('{:7s}'.format('Test2'))
 
 plt.figure()
 plt.show()
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/still-more
-=======
-
->>>>>>> origin/still-more
