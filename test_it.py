@@ -10,7 +10,13 @@ import math
 
 print('{:7s}'.format('Test'))
 
+<<<<<<< HEAD
 print('{:7s}'.format('Test2'))
 
 plt.figure()
 plt.show()
+=======
+plt.figure(figsize=(10,15))
+plt.show()
+
+>>>>>>> refs/remotes/origin/master
