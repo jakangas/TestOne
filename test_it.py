@@ -10,6 +10,10 @@ import math
 
 print('{:7s}'.format('Test'))
 
-plt.figure(figsize=(10,15))
+print('{:7s}'.format('Test2'))
+
+plt.figure()
 plt.show()
 
+plt.figure(figsize=(10,15))
+plt.show()
