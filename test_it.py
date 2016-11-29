@@ -12,6 +12,9 @@ print('{:7s}'.format('Test'))
 
 print('{:7s}'.format('Test2'))
 
+for i in range(10):
+    print("This number: {:10d}".format(i))
+
 plt.figure()
 plt.show()
 
