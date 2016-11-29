@@ -18,5 +18,5 @@ for i in range(10):
 plt.figure()
 plt.show()
 
-plt.figure(figsize=(10,15))
+plt.figure(figsize=(10,5))
 plt.show()
